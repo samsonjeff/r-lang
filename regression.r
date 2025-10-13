@@ -19,5 +19,8 @@ monthlySalesPrediction <- data.frame(
   Price = 50, 
   StoreTraffic = 380)
 result <- predict(model, monthlySalesPrediction)
-print(paste0("The monthly sales will be $", result))
+print(result)
+
+# Change your variable name to something unique.
+# If you are going to use my code, use this as a guide.
 
