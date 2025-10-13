@@ -1,11 +1,11 @@
 # SAMSON, JEFFERSON `**R programming**`
 # given dataset
-sales_data <- data.frame( 
-Advertising = c(2000, 2500, 3000, 1500, 1000, 4000, 3500, 2000, 1800, 4200), 
-Price = c(50, 55, 52, 60, 65, 45, 48, 55, 58, 44), 
-StoreTraffic = c(300, 350, 400, 280, 250, 500, 450, 320, 310, 520), 
-CompetitorPrice = c(48, 50, 49, 55, 60, 47, 46, 52, 54, 46), 
-MonthlySales = c(21000, 22000, 25000, 18000, 16000, 30000, 28000, 21000, 19000, 31000) 
+sales_data <- data.frame(
+  Advertising = c(1889, 3844, 2326, 4553, 4772, 1269, 3111, 4861, 3339, 4832),
+  Price = c(61, 64, 42, 69, 68, 41, 56, 56, 54, 54),
+  StoreTraffic = c(376, 466, 507, 313, 473, 359, 477, 545, 357, 446),
+  CompetitorPrice = c(53, 52, 60, 65, 49, 64, 49, 64, 55, 64),
+  MonthlySales = c(27986, 20646, 24344, 31383, 15834, 21484, 28713, 34125, 15112, 30526)
 )
 
 # The model
@@ -22,5 +22,6 @@ print(result)
 
 # Change your variable name to something unique.
 # If you are going to use my code, use this as a guide.
+
 
 
