@@ -1,5 +1,4 @@
-# SAMSON, JEFFERSON BA 3101
-# `**R programming**`
+# SAMSON, JEFFERSON `**R programming**`
 # given dataset
 sales_data <- data.frame( 
 Advertising = c(2000, 2500, 3000, 1500, 1000, 4000, 3500, 2000, 1800, 4200), 
@@ -23,4 +22,5 @@ print(result)
 
 # Change your variable name to something unique.
 # If you are going to use my code, use this as a guide.
+
 
