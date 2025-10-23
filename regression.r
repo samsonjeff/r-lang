@@ -1,5 +1,4 @@
-# SAMSON, JEFFERSON `**R programming**`
-# given dataset
+# given dataset `**R programming**`
 sales_data <- data.frame(
   Advertising = c(1889, 3844, 2326, 4553, 4772, 1269, 3111, 4861, 3339, 4832),
   Price = c(61, 64, 42, 69, 68, 41, 56, 56, 54, 54),
@@ -22,6 +21,7 @@ print(result)
 
 # Change your variable name to something unique.
 # If you are going to use my code, use this as a guide.
+
 
 
 
