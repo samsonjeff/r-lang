@@ -1,6 +1,5 @@
-# SAMSON, JEFFERSON BA 3101
 # `**R programming**`
-# given dataset by sir Canoy
+# given dataset (Problem #2)
 sales_data <- data.frame( 
 Advertising = c(2000, 2500, 3000, 1500, 1000, 4000, 3500, 2000, 1800, 4200), 
 Price = c(50, 55, 52, 60, 65, 45, 48, 55, 58, 44), 
